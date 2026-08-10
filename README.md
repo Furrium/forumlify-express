@@ -117,12 +117,3 @@ forumlify-express/
 MIT
 
 
-## 改动说明
-
-| 原内容 | 改后 |
-|--------|------|
-| `forumlify` | `forumlify-express` |
-| `cd forumlify` | `cd forumlify-express` |
-| 提到 Vercel/Cloudflare 部署 | 简化为一行链接到原仓库 Next 分支 |
-| `3003` 端口 | `3000` 端口 |
-| 无项目结构 | 新增项目结构说明 |
