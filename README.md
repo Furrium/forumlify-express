@@ -16,7 +16,7 @@
 ### Docker 部署（推荐）
 
 ```bash
-git clone https://github.com/furrium/forumlify.git
+git clone https://github.com/furrium/forumlify-express.git
 cd forumlify
 docker-compose up -d
 ```
