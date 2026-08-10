@@ -98,6 +98,8 @@ mkdir -p uploads && chmod 755 uploads
 forumlify-express/
 ├── index.html          # 前端页面
 ├── style.css           # 全局样式
+├── Dockerfile          # Docker 镜像构建文件
+├── package-lock.json   # 依赖锁定文件
 ├── server.js           # 后端服务（Express）
 ├── js/                 # 前端 JS 模块
 │   ├── app.js
